@@ -1,0 +1,9 @@
+{
+	"name": "adf-nycpayroll-akerele",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2aca40b6-de0d-45c8-80b3-f596da7506f0",
+		"tenantId": "9212c1a7-ae44-4399-a52d-3faa7b98f90a"
+	}
+}
